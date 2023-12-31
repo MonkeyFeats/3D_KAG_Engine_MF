@@ -1,0 +1,5 @@
+newmtl KagDude_Tex
+Ns 100.000
+d 1.00000
+illum 2
+map_Kd KagDude_Tex.png

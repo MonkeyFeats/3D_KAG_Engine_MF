@@ -1,0 +1,4 @@
+newmtl 01___Default
+	illum 2
+	Kd 1.0 1.0 1.0
+	map_Kd Sky.png
